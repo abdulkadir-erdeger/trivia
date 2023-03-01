@@ -1,4 +1,4 @@
 # trivia
 
 Tanıtım: 
-![alt text](https://www.linkpicture.com/q/trivia_1.png "Logo Title Text 1")
+![alt text](https://lh3.googleusercontent.com/d/1k6T_HJzQxfMKh3PSFwhNPT0qHKId3QL1 "Logo Title Text 1")
